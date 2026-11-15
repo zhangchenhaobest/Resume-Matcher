@@ -1,3 +1,29 @@
+# Resume-Matcher
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ LLMs support.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+本地运行、支持 100+ LLM 的简历、PDF 与求职信构建 AI Harness。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <div align="center">
 
 [![Resume Matcher](assets/header.webp)](https://resumematcher.fyi/)
